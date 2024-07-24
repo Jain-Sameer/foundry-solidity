@@ -1,2 +1,2 @@
 # foundry-solidity
-Learning Solidity through [https://updraft.cyfrin.io/](Cyfrin-Updraft)
+Learning Solidity through [Cyfrin Updraft](https://updraft.cyfrin.io/)
